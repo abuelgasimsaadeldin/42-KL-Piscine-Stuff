@@ -2,7 +2,7 @@
 How to Test:
 <br>
 ```
-./a.out "4 1 2 3 1 2 2 2 2 2 2 1 3 2 1 4"<br>
+./a.out "4 1 2 3 1 2 2 2 2 2 2 1 3 2 1 4"
 ```
 <br>
 order of the digits in the argument: <br>
